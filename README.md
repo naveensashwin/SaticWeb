@@ -1,0 +1,2 @@
+# SaticWeb
+static web
